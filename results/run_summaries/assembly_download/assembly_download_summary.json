@@ -1,0 +1,11 @@
+{
+  "requested_assemblies": 42833,
+  "successful_assemblies": 42833,
+  "failed_assemblies": 0,
+  "downloaded": 42813,
+  "cached": 20,
+  "not_found": 0,
+  "errors": 0,
+  "total_size_bytes": 14668443589,
+  "total_size_gib": 13.661
+}

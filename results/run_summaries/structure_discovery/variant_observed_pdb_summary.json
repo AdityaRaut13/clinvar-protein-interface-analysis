@@ -1,0 +1,10 @@
+{
+  "uniprot_ready_variants": 233636,
+  "variants_with_observed_pdb_position": 75012,
+  "variants_without_observed_pdb_position": 158624,
+  "structural_targets": 19937,
+  "targets_with_observed_variant_position": 5707,
+  "targets_without_observed_variant_position": 14230,
+  "retained_sifts_segments": 217119,
+  "position_relevant_pdb_entries": 56502
+}

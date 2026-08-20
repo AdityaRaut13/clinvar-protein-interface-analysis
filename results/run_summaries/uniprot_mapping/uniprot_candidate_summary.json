@@ -1,0 +1,12 @@
+{
+  "unique_source_proteins": 24738,
+  "proteins_with_candidate": 19855,
+  "proteins_without_candidate": 4883,
+  "candidate_rows": 32106,
+  "unique_uniprot_accessions": 30710,
+  "unique_canonical_accessions": 20683,
+  "proteins_with_multiple_candidates": 11106,
+  "invalid_annotation_values": 0,
+  "variants_with_candidate": 231844,
+  "variants_without_candidate": 20923
+}

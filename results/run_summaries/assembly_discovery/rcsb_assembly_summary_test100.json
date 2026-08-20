@@ -1,0 +1,12 @@
+{
+  "requested_pdb_entries": 100,
+  "returned_pdb_entries": 100,
+  "downloaded_batches": 1,
+  "cached_batches": 0,
+  "assemblies_examined": 126,
+  "protein_complex_assemblies": 69,
+  "target_complex_assemblies": 69,
+  "unique_target_complex_pdb_entries": 63,
+  "target_accessions_in_complexes": 27,
+  "variants_on_targets_in_complexes": 829
+}

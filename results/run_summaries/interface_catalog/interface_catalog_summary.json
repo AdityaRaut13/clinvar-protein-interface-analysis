@@ -1,0 +1,25 @@
+{
+  "protein_residue_pdb_evidence_rows": 1694638,
+  "protein_residue_partner_evidence_rows": 421930,
+  "unique_protein_residues": 50173,
+  "variants_with_contacting_chain_pair": 62211,
+  "variants_with_reference_structure_coverage": 62005,
+  "interface_by_label": [
+    {
+      "label": 0,
+      "covered_variants": 24473,
+      "pinder_interface_variants": 9468,
+      "heavy_interface_variants": 6461,
+      "union_interface_variants": 9659,
+      "union_percent": 39.47
+    },
+    {
+      "label": 1,
+      "covered_variants": 37532,
+      "pinder_interface_variants": 17809,
+      "heavy_interface_variants": 12833,
+      "union_interface_variants": 18122,
+      "union_percent": 48.28
+    }
+  ]
+}

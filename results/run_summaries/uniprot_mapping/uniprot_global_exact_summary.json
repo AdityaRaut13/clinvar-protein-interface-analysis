@@ -1,0 +1,16 @@
+{
+  "source_proteins": 24738,
+  "proteins_rescued_global_exact": 73,
+  "proteins_global_exact_ambiguous": 0,
+  "total_exact_mapped_proteins": 21430,
+  "remaining_unmapped_proteins": 3308,
+  "total_exact_mapped_variants": 237746,
+  "remaining_unmapped_variants": 15021,
+  "status_counts": {
+    "unique_exact_canonical": 21357,
+    "no_annotated_candidate": 3234,
+    "global_unique_exact_canonical": 73,
+    "ambiguous_multiple_exact_canonicals": 37,
+    "no_exact_candidate_family_match": 37
+  }
+}

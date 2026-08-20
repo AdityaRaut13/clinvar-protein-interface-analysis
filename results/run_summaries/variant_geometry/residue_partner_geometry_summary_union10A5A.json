@@ -1,0 +1,20 @@
+{
+  "expected_residue_pair_tasks": 5767985,
+  "completed_task_buckets": 128,
+  "total_task_buckets": 128,
+  "geometry_rows": 5767985,
+  "geometry_ok_rows": 5767973,
+  "pinder_interface_10A_rows": 998290,
+  "heavy_interface_5A_rows": 575885,
+  "both_interface_definitions": 554624,
+  "pinder_only": 443666,
+  "heavy_only": 21259,
+  "geometry_status_counts": {
+    "backbone_geometry_missing": 12,
+    "ok": 5767973
+  },
+  "assembly_status_counts": {
+    "ok": 42687,
+    "ok_with_missing_geometry": 2
+  }
+}

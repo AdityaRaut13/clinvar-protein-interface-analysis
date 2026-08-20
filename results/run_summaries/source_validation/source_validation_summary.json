@@ -1,0 +1,16 @@
+{
+  "input_variants": 252767,
+  "valid_variants": 252767,
+  "failed_variants": 0,
+  "unique_valid_source_sequences": 24738,
+  "unique_valid_protein_ids": 24738,
+  "fasta_records": 24738,
+  "selected_fasta_key_column": "protein_sequence_id",
+  "fasta_match_counts": {
+    "protein_sequence_id": 252767,
+    "protein_id": 252767
+  },
+  "validation_status_counts": {
+    "valid": 252767
+  }
+}

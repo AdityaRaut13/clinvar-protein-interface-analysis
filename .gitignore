@@ -1,0 +1,64 @@
+# Raw and processed datasets
+data/
+structures/
+downloads/
+cache/
+models/
+checkpoints/
+
+# Large biological files
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+*.csi
+*.fa
+*.fasta
+*.faa
+*.fa.gz
+*.fasta.gz
+*.cif
+*.cif.gz
+*.pdb
+*.parquet
+*.arrow
+*.feather
+*.duckdb
+*.pkl
+
+# Model and archive files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.tar
+*.tar.gz
+*.zip
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+tmp/
+scratch/
+
+# Environments and caches
+.venv/
+venv/
+conda_envs/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*

@@ -1,0 +1,20 @@
+name: clinvar_interface_full
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - scikit-learn
+  - requests
+  - numpy
+  - pandas
+  - gemmi
+  - tqdm
+  - scipy
+  - python=3.11
+  - statsmodels
+  - jupyterlab
+  - duckdb
+  - pyarrow
+  - biopython
+  - seaborn
+  - ipykernel

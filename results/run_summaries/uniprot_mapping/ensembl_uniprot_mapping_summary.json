@@ -1,0 +1,9 @@
+{
+  "submitted_ensembl_proteins": 5109,
+  "mapped_ensembl_proteins": 1786,
+  "unmapped_ensembl_proteins": 3323,
+  "ensembl_uniprot_mapping_rows": 1826,
+  "unique_mapped_uniprot_accessions": 1824,
+  "original_candidate_rows": 32106,
+  "combined_candidate_rows": 33835
+}

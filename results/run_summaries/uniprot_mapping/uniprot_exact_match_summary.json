@@ -1,0 +1,10 @@
+{
+  "source_proteins": 24738,
+  "uniprot_sequences": 169637,
+  "proteins_unique_exact": 21357,
+  "proteins_ambiguous_exact": 37,
+  "proteins_no_exact_match": 42,
+  "proteins_without_candidate": 3302,
+  "variants_unique_exact": 237372,
+  "variants_not_unique_exact": 15395
+}

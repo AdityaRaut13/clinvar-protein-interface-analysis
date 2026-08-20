@@ -1,0 +1,10 @@
+{
+  "input_uniprot_ready_variants": 233636,
+  "sifts_mapped_variants": 74973,
+  "sifts_unmapped_variants": 158663,
+  "variant_pdb_chain_mapping_rows": 2736079,
+  "mapped_pdb_entries": 56424,
+  "mapped_pdb_chains": 147519,
+  "valid_observed_segments": 216745,
+  "invalid_observed_segments": 374
+}

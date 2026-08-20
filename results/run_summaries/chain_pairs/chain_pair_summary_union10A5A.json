@@ -1,0 +1,10 @@
+{
+  "assemblies_requested": 42833,
+  "assemblies_processed": 42833,
+  "status_counts": {
+    "ok": 42732,
+    "no_contacting_partner": 101
+  },
+  "protein_chains": 223687,
+  "contacting_target_partner_pairs": 446498
+}

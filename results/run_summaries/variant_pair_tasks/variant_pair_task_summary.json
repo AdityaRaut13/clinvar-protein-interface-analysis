@@ -1,0 +1,22 @@
+{
+  "sifts_mapping_rows": 2736079,
+  "sifts_mapped_variants": 74973,
+  "retained_chain_pairs": 446498,
+  "variant_chain_pair_tasks": 8045037,
+  "variants_with_contacting_pair": 62211,
+  "unique_task_assemblies": 42689,
+  "coverage_by_label": [
+    {
+      "label": 0,
+      "sifts_mapped_variants": 30617,
+      "variants_with_contacting_pair": 24632,
+      "coverage_percent": 80.45
+    },
+    {
+      "label": 1,
+      "sifts_mapped_variants": 44356,
+      "variants_with_contacting_pair": 37579,
+      "coverage_percent": 84.72
+    }
+  ]
+}

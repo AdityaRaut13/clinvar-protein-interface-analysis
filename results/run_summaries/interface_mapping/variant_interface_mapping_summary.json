@@ -1,0 +1,31 @@
+{
+  "variant_structure_observations": 8045037,
+  "variants_with_contacting_chain_pair": 62211,
+  "observation_residue_match_counts": {
+    "other_mismatch": 35708,
+    "alternate_match": 22234,
+    "reference_match": 7986332,
+    "unknown_pdb_residue": 763
+  },
+  "variants_with_any_reference_match": 62005,
+  "variants_with_any_alternate_match": 697,
+  "variants_with_any_other_mismatch": 889,
+  "interface_by_label": [
+    {
+      "label": 0,
+      "variants": 24632,
+      "ever_pinder_interface_10A": 9542,
+      "ever_heavy_interface_5A": 6518,
+      "ever_union_interface": 9734,
+      "union_percent": 39.52
+    },
+    {
+      "label": 1,
+      "variants": 37579,
+      "ever_pinder_interface_10A": 17844,
+      "ever_heavy_interface_5A": 12873,
+      "ever_union_interface": 18158,
+      "union_percent": 48.32
+    }
+  ]
+}

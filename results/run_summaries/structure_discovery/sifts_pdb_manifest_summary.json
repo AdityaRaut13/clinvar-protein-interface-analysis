@@ -1,0 +1,10 @@
+{
+  "structural_targets": 19937,
+  "targets_with_experimental_pdb": 7158,
+  "targets_without_experimental_pdb": 12779,
+  "unique_target_pdb_entries": 67168,
+  "target_pdb_chain_mapping_rows": 188621,
+  "ready_variants": 233636,
+  "variants_on_targets_with_pdb": 136453,
+  "variants_on_targets_without_pdb": 97183
+}

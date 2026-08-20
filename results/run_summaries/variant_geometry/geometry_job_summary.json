@@ -1,0 +1,7 @@
+{
+  "chain_pair_jobs": 445338,
+  "assemblies": 42689,
+  "residue_pair_tasks": 5767985,
+  "maximum_positions_per_chain_pair": 509,
+  "task_buckets": 128
+}

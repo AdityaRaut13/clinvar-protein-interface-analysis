@@ -1,0 +1,22 @@
+{
+  "input_variants": 252767,
+  "uniprot_ready_variants": 233636,
+  "uniprot_failed_variants": 19131,
+  "unique_structural_targets": 19937,
+  "direct_canonical_variants": 217867,
+  "isoform_lifted_variants": 15769,
+  "failure_status_counts": {
+    "no_annotated_candidate": 14047,
+    "unique_exact_canonical": 4063,
+    "ambiguous_multiple_exact_canonicals": 687,
+    "no_exact_candidate_family_match": 287,
+    "global_unique_exact_canonical": 47
+  },
+  "coordinate_status_counts": {
+    "exact_canonical_direct": 217867,
+    "isoform_to_canonical_alignment": 15769,
+    "not_attempted": 15021,
+    "canonical_reference_mismatch": 2748,
+    "position_unmapped_in_canonical": 1362
+  }
+}
