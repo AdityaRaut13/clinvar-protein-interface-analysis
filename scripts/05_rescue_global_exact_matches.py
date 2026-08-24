@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 
 import pandas as pd
+import os
 
 
 ROOT = Path(os.environ["IF_PROJECT"])

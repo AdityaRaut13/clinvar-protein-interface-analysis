@@ -369,8 +369,8 @@ python "$IF_PROJECT/scripts/18_test_interface_enrichment.py" \
 ### 7.5 Radial plots
 
 ```bash
-python "$IF_PROJECT/scripts/20_batch_full_clinvar_circular_plots.py" \
-  2>&1 | tee "$IF_PROJECT/logs/20_batch_full_clinvar_circular_plots.log"
+python "$IF_PROJECT/scripts/batch_full_clinvar_circular_plots.py" \
+  2>&1 | tee "$IF_PROJECT/logs/batch_full_clinvar_circular_plots.log"
 ```
 
 If the plotting scripts are stored outside `scripts/`, adjust the path while keeping input and output paths under `$IF_PROJECT`.
@@ -686,17 +686,6 @@ An odds ratio above 1 means interface variants are more likely to be pathogenic 
 
 Agreement across these analyses is more convincing than a single small p-value. Here, all three interface definitions produced odds ratios above 1, and the association remained after adjustment.
 
-### What the result does not mean
-
-The result does not imply:
-
-- every interface variant is pathogenic;
-- every non-interface variant is benign;
-- interfaces are the only mechanism of pathogenicity;
-- the 62,005 covered variants represent ClinVar uniformly; or
-- PDB coverage is random.
-
----
 
 ## 12. Radial interface plots
 
@@ -717,11 +706,9 @@ The short-protein panel contains:
 
 Example README embedding after plots have been generated:
 
-```markdown
 ![TP53 partner-specific interface map](
-plots/full_clinvar_radial/top10_under500/01_P04637_TP53_393aa_radial.png
+plots/radial_examples/01_P04637_TP53_393aa_radial.png
 )
-```
 
 Interpret darker interface cells as stronger support across the available PDB evidence for that residue-partner pair. They do not directly represent binding strength or clinical severity.
 

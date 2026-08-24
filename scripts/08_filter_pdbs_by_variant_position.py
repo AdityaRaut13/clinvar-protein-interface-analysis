@@ -6,6 +6,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
+import os
 
 
 ROOT = Path(os.environ["IF_PROJECT"])

@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pandas as pd
 from Bio import SeqIO
+import os
 
 
 ROOT = Path(os.environ["IF_PROJECT"])

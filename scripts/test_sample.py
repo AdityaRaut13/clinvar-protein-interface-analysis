@@ -2,6 +2,7 @@ import gzip
 import pandas as pd
 from Bio import SeqIO
 from pathlib import Path
+import os
 
 root = Path(os.environ["IF_PROJECT"])
 csv_path = root / "data/input/clinvar_missense_protein_ready.csv.gz"

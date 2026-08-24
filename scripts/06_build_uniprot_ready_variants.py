@@ -9,6 +9,7 @@ import pandas as pd
 from Bio import SeqIO
 from Bio.Align import PairwiseAligner
 from tqdm import tqdm
+import os
 
 
 ROOT = Path(os.environ["IF_PROJECT"])

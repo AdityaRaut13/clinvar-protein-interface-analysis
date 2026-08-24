@@ -3,6 +3,7 @@
 import gzip
 import hashlib
 import json
+import os
 from collections import defaultdict
 from pathlib import Path
 
@@ -22,10 +23,20 @@ SOURCE_VARIANTS = (
     / "data/processed/source_validation"
     / "clinvar_source_valid.parquet"
 )
-CANDIDATE_FILE = (
+INITIAL_CANDIDATES = (
+    ROOT
+    / "data/processed/uniprot_mapping"
+    / "protein_uniprot_candidates.parquet"
+)
+COMBINED_CANDIDATES = (
     ROOT
     / "data/processed/uniprot_mapping"
     / "protein_uniprot_candidates_combined.parquet"
+)
+CANDIDATE_FILE = (
+    COMBINED_CANDIDATES
+    if COMBINED_CANDIDATES.exists()
+    else INITIAL_CANDIDATES
 )
 UNIPROT_FASTA = (
     ROOT
